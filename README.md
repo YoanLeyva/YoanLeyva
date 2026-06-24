@@ -45,7 +45,7 @@ Soy un desarrollador apasionado por construir soluciones eficientes, escalables 
   <a href="https://www.facebook.com/profile.php?id=100079706366096&mibextid=rS40aB7S9Ucbxw6v" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/TU_INSTAGRAM" target="_blank">
+  <a href="https://instagram.com/TU_INSTAGRAM](https://www.instagram.com/yoanleyva7?utm_source=qr&igsh=MWRiYzM3ZHY4eWsxag==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>&nbsp;&nbsp;
   <a href="https://wa.me/TU_NUMERO_TELEFONO" target="_blank">
