@@ -31,10 +31,18 @@ Soy un desarrollador apasionado por construir soluciones eficientes, escalables 
 
 ---
 
-### 📈 Contribuciones
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoanLeyva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=a9b1d6&icon_color=bb9af7&hide=stars,commits,prs,issues,followers&hide_rank=true" alt="GitHub Contribuciones" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YoanLeyva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoanLeyva&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=YoanLeyva&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YoanLeyva&theme=tokyo-night&hide_border=true"/>
+
 </div>
 
 ---
@@ -51,7 +59,7 @@ Soy un desarrollador apasionado por construir soluciones eficientes, escalables 
   <a href="https://wa.me/5351278045" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
-  <a href="https://discord.gg/TU_INVITACION_O_USER" target="_blank">
+  <a href="https://discord.gg/fAvkc2cQE" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>&nbsp;&nbsp;
   <a href="mailto:yoanleyva165@gmail.com">
