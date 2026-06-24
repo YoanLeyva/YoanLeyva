@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[[http://googleusercontent.com/image_generation_content/291](https://github.com/YoanLeyva/YoanLeyva/blob/main/Gemini_Generated_Image_1gohik1gohik1goh.png)](https://github.com/YoanLeyva/YoanLeyva/blob/main/Gemini_Generated_Image_1gohik1gohik1goh.png)" alt="Si puedes imaginarlo yo lo programo" width="100%">
+  <img src="./Gemini_Generated_Image_1gohik1gohik1goh.png" alt="Si puedes imaginarlo yo lo programo" width="100%">
 </div>
 
 <br/>
