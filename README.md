@@ -31,17 +31,32 @@ Soy un desarrollador apasionado por construir soluciones eficientes, escalables 
 
 ---
 
-### 📈 Actividad y Estadísticas
+### 📈 Contribuciones
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoanLeyva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=a9b1d6&icon_color=bb9af7" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoanLeyva&theme=tokyonight&hide_border=true&background=0D1117&ring=bb9af7&fire=7aa2f7&currStreakNum=a9b1d6" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YoanLeyva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=a9b1d6&icon_color=bb9af7&hide=stars,commits,prs,issues,followers&hide_rank=true" alt="GitHub Contribuciones" />
 </div>
 
-<br/>
+---
+
+### 🌐 Redes y Contacto
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YoanLeyva&label=Visitas+al+perfil&color=bb9af7&style=flat-square" alt="Contador de visitas" />
+  <a href="https://www.facebook.com/profile.php?id=100079706366096&mibextid=rS40aB7S9Ucbxw6v" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/TU_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/TU_NUMERO_TELEFONO" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>&nbsp;&nbsp;
+  <a href="https://discord.gg/TU_INVITACION_O_USER" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:TU_EMAIL@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 ---
