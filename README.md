@@ -48,9 +48,9 @@ Soy un desarrollador apasionado por construir soluciones eficientes, escalables 
   <a href="https://www.instagram.com/yoanleyva7?utm_source=qr&igsh=MWRiYzM3ZHY4eWsxag==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>&nbsp;&nbsp;
-  <a href="https://wa.me/+53 5 1278045" target="_blank">
+  <a href="https://wa.me/5351278045" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>&nbsp;&nbsp;
+</a>
   <a href="https://discord.gg/TU_INVITACION_O_USER" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>&nbsp;&nbsp;
