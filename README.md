@@ -34,14 +34,14 @@ Soy un desarrollador apasionado por construir soluciones eficientes, escalables 
 ### 📈 Actividad y Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=a9b1d6&icon_color=bb9af7" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUI&theme=tokyonight&hide_border=true&background=0D1117&ring=bb9af7&fire=7aa2f7&currStreakNum=a9b1d6" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YoanLeyva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=a9b1d6&icon_color=bb9af7" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoanLeyva&theme=tokyonight&hide_border=true&background=0D1117&ring=bb9af7&fire=7aa2f7&currStreakNum=a9b1d6" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_AQUI&label=Visitas+al+perfil&color=bb9af7&style=flat-square" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=YoanLeyva&label=Visitas+al+perfil&color=bb9af7&style=flat-square" alt="Contador de visitas" />
 </div>
 
 ---
