@@ -54,7 +54,7 @@ Soy un desarrollador apasionado por construir soluciones eficientes, escalables 
   <a href="https://discord.gg/TU_INVITACION_O_USER" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:TU_EMAIL@email.com">
+  <a href="mailto:yoanleyva165@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
