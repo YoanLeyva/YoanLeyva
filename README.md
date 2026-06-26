@@ -15,7 +15,7 @@ Soy un desarrollador apasionado por construir soluciones eficientes, escalables 
 
 * ⚛️ **Frontend Alchemist:** Transformo ideas en interfaces interactivas y fluidas utilizando **React**.
 * ⚙️ **Backend Optimizer:** Diseño vistas, configuro serializadores y disfruto exterminando los temidos problemas de consultas **N+1** para lograr un rendimiento óptimo.
-* 🤖 **Integrador de Modelos:** Experiencia orquestando la integración de arquitecturas y modelos avanzados (como T17 y T18) dentro de estructuras de proyectos sólidas.
+* 🤖 **Integrador de Modelos:** Experiencia orquestando la integración de arquitecturas y modelos avanzados dentro de estructuras de proyectos sólidas.
 * 📊 **Data Stylist:** Especialista en manipulación de datos, personalizando tablas, columnas combinadas y encabezados de reportes detallados con la librería `xlsx`.
 * 🎨 **Estética y Funcionalidad:** Amante del diseño minimalista. Creo firmemente que la arquitectura técnica detrás del código debe ser tan limpia como la interfaz gráfica que ve el usuario.
 
